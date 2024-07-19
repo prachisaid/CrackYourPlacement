@@ -3,7 +3,7 @@ package CrackYourPlacement;
 import java.util.ArrayList;
 import java.util.List;
 
-public class ThreeSum {
+public class FindAllDuplicatesInArray {
 	public static void main(String[] args) {
 		int[] nums = {4, 3, 2, 7, 8, 2, 3, 1};
 		System.out.println(findDuplicates(nums));
